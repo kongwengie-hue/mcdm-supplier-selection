@@ -18,7 +18,7 @@ methods to evaluate and rank suppliers.
 ## How to Run
 1. Clone this repo
    ```bash
-   git clone https://github.com/<your-username>/mcdm-supplier-selection.git
+   git clone https://github.com/kongwengie/mcdm-supplier-selection.git
    cd mcdm-supplier-selection
    ```
 
